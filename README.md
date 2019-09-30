@@ -1,5 +1,5 @@
 # PCA-and-KMeans-for-genetic-code
-An explained exercise in data science using PCA and K-means to decipher genomics
+An explained exercise in data science using PCA and K-means to decipher genomics, proposed at MIT's edX Data Science course exercise 1.1.1
 
 This is a Python implementation of a paper presented on MIT's edX Data Science course.
 
